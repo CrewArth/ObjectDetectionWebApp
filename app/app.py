@@ -8,7 +8,7 @@ from ultralytics import YOLO
 app = Flask(__name__)
 
 # Load the YOLO model
-model = YOLO('models\yolo11n.pt')  # Specify the path to your YOLO model weights
+model = YOLO('models/yolo11n.pt')  # Specify the path to your YOLO model weights
 
 @app.route('/')
 def home():
