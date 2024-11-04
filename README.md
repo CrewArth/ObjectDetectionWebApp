@@ -21,8 +21,15 @@ Follow these steps to set up your own instance of the Object Detection Web App:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repo-url>
-   cd object_detection_webapp
+   git clone https://github.com/CrewArth/ObjectDetectionWebApp.git
+
+2. **Install Required Libraries**
+   ```bash
+   pip install -r requirements.txt
+
+3. To Train the Model(Optional)
+  ```bash
+   python train.py
 
 pip install -r requirements.txt
 
