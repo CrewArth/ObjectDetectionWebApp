@@ -6,5 +6,5 @@ This project is an object detection web app built using a fine-tuned YOLO model 
 
 1. Clone this repository and navigate into the project directory.
    ```bash
-   git clone <repo-url>
+   git clone [<repo-url>](https://github.com/CrewArth/ObjectDetectionWebApp)
    cd object_detection_webapp
