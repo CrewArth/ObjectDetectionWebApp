@@ -28,14 +28,18 @@ Follow these steps to set up your own instance of the Object Detection Web App:
    pip install -r requirements.txt
 
 3. To Train the Model(Optional)
-  ```bash
+     ```bash
    python train.py
 
-pip install -r requirements.txt
+4. To Run the Application
+   ```bash
+   cd ObjectDetectionProject\app
+   python app.py
 
-python app.py
+5. Open up the Browser
 
-http://127.0.0.1:5000
+   ```bash
+   http://127.0.0.1:5000
 
 🎬 Usage
 Upload Image: Click the "Choose File" button to upload an image of blood cells. 🩸
