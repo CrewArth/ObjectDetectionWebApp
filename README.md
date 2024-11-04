@@ -10,7 +10,7 @@ Welcome to the **Object Detection Web App**! 🚀 This application leverages a f
 
 ## 🛠 Technologies Used
 
-- **YOLOv5:** Fast and efficient object detection model.
+- **YOLOv11:** Fast and efficient object detection model.
 - **Flask:** Lightweight web framework for creating the app.
 - **OpenCV:** Powerful computer vision library for image processing.
 - **HTML/CSS & JavaScript:** Front-end technologies for a beautiful interface.
