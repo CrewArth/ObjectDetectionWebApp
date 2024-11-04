@@ -48,5 +48,3 @@ View Results: The app will display the uploaded image with detected cells highli
 🤝 Contributing
 We welcome contributions! If you have suggestions or want to add new features, feel free to submit a pull request or open an issue. Together, we can make this app even better! 💪
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
